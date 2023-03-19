@@ -14,7 +14,7 @@
  <br/>
 
 <p align="center">
-  <img alt="Desafio 02" src="images/Travel EXpert LP.jpg" width="100%">
+  <img alt="Desafio 02" src="images/Travel Expert LP.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
